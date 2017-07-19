@@ -79,5 +79,3 @@ Before this lesson(s), students should already be able to:
 
 For more information on this topic, check out the following resources:
 
--
-
