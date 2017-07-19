@@ -1,23 +1,28 @@
-# More-Statistics-and-Visualizations
-Unit 2 : Working with Data | Lesson 2 : More Statistics and Visualizations
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) More-Statistics-and-Visualizations
 
-**Notebook:** [More-Statistics-and-Visualizations.ipynb](./More-Statistics-and-Visualizations.ipynb)
-**Solutions:** [More-Statistics-and-Visualizations-solutions.ipynb](./solutions-code/More-Statistics-and-Visualizations-solutions.ipynb)
+> Unit 2, Lesson 2
 
-**Extra:** [French Fries & Diabetes Study](./assets/french-fry.pdf) Includes a sample study that shows a use of some of the hypothesis testing, confidence interval, and causation topics. This study is optional and not referenced in any other documents.
+---
 
+## Materials We Provide
 
+| Lesson | More Statistics and Visualizations | [Here](./More-Statistics-and-Visualizations.ipynb)|
+| Extra Materials | French Fry Study | [Here](https://git.generalassemb.ly/data-part-time/More-Statistics-and-Visualizations/blob/master/assets/french-fry.pdf)
+| Solutions | Lesson Solution Material | Here](./solutions-code/More-Statistics-and-Visualizations-solutions.ipynb)|
 
-### Learning Objectives
-- **Explain** the difference between causation and correlation
-- **Determine** causality and sampling bias using Directed Acyclic Graphs
-- **Identify** what missing data is and how to handle it
-- **Test** a hypothesis using a sample case study
+---
 
+## Learning Objectives
+- Explain the difference between causation and correlation
+- Determine causality and sampling bias using Directed Acyclic Graphs
+- Identify what missing data is and how to handle it
+- Test a hypothesis using a sample case study
+
+---
 
 ### Lesson Guide
-- [Data Source](#data-source)
-	- [What are the features/covariates/predictors?](#what-are-the-featurescovariatespredictors)
+- Data Source
+	- What are the features/covariates/predictors?
 	- [What is the outcome/response?](#what-is-the-outcomeresponse)
 	- [What do you think each row in the dataset represents?](#what-do-you-think-each-row-in-the-dataset-represents)
 - [Math review](#math-review)
