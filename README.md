@@ -12,6 +12,10 @@
 | Extra Materials | French Fry Study | [Here](https://git.generalassemb.ly/data-part-time/More-Statistics-and-Visualizations/blob/master/assets/french-fry.pdf) |
 | Solutions | Lesson Solution Material | [Here](./solution-code/More-Statistics-and-Visualizations-solutions.ipynb)|
 
+In this lesson, we use an online CSV file of advertising data from the book "An Introduction to Statistical Learning". This dataset is easy to understand. It allows the student to easily compare sales data across three advertising mediums.
+
+You will likely need to spend time on explaining covariance and correlation, perhaps doing examples on the board to make the equations as clear as possible. Make sure time is left for the scenario at the end where students have time to practice the lesson material.
+
 ---
 
 ## Learning Objectives
@@ -25,19 +29,20 @@
 
 ## Lesson Outline
 
-- Data Source
+TOTAL (170 min)
+- Data Source (10 min)
 	- What are the features/covariates/predictors?
 	- What is the outcome/response?
 	- What do you think each row in the dataset represents?
-- Math review
-	- Covariance
-	- Correlation
-	- The variance-covariance matrix
-- Causation and Correlation
+- Math review (40 min)
+	- Covariance (15 min)
+	- Correlation (10 min)
+	- The variance-covariance matrix (15 min)
+- Causation and Correlation (10 min)
 	- Structure of causal claims
 	- Why do we care?
 	- How do we determine if something is causal?
-- Pearlean Causal DAG model
+- Pearlean Causal DAG model (15 min)
 	- What is a DAG?
 	- It's possible that X causes Y.
 	- Y causes X.
@@ -48,25 +53,25 @@
 	- Controlled Experiments
 	- When is it OK to rely on association?
 	- How does association relate to causation?
-- Sampling bias
+- Sampling bias (15 min)
 	- Forms of sampling bias
 	- Problems from sampling bias
 	- Recovering from sampling bias
     	- Stratified random sampling
-- Missing data
+- Missing data (20 min)
 	- Types of missing data
 	- De minimis
 	- Class imbalance
     	- Relation to machine learning
-- Introduction to Hypothesis Testing
+- Introduction to Hypothesis Testing (20 min)
 	- Validate your findings
 	- Confidence intervals
 	- Error types
-- Scenario
+- Scenario (40 min)
 	- Exercises
 	- Statistical Tests
 	- Interpret your results
-	
+
 ---
 
 ## Student Requirements
