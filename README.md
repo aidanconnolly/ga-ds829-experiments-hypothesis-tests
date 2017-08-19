@@ -8,9 +8,9 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | More Statistics and Visualizations | [Here](./More-Statistic-and-Visualization.ipynb)|
+| Lesson | More Statistics and Visualizations | [Here](./stats-and-plots.ipynb)|
 | Extra Materials | French Fry Study | [Here](https://git.generalassemb.ly/data-part-time/More-Statistics-and-Visualizations/blob/master/assets/french-fry.pdf) |
-| Solutions | Lesson Solution Material | [Here](./solution-code/More-Statistics-and-Visualizations-solutions.ipynb)|
+| Solutions | Lesson Solution Material | [Here](./solution-code/stats-and-plots_solutions.ipynb)|
 
 In this lesson, we use an online CSV file of advertising data from the book "An Introduction to Statistical Learning". This dataset is easy to understand. It allows the student to easily compare sales data across three advertising mediums.
 
