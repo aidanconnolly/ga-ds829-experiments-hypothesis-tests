@@ -8,7 +8,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | More Statistics and Visualizations | [Here](./stats-and-plots.ipynb)|
+| Lesson | More Statistics and Visualizations | [Here](./stats-and-plots-in-python.ipynb)|
 | Extra Materials | French Fry Study | [Here](https://git.generalassemb.ly/data-part-time/More-Statistics-and-Visualizations/blob/master/assets/french-fry.pdf) |
 | Solutions | Lesson Solution Material | [Here](./solution-code/stats-and-plots_solutions.ipynb)|
 
