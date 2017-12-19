@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Stats & Plots in Python
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Experiments & Hypothesis Testing
 
 > Unit 2, Lesson 3
 
@@ -8,7 +8,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | More Statistics and Visualizations | [Here](./stats-and-plots-in-python.ipynb)|
+| Lesson | Statistics and Visualizations | [Here](./stats-and-plots-in-python.ipynb)|
 | Extra Materials | French Fry Study | [Here](https://git.generalassemb.ly/data-part-time/More-Statistics-and-Visualizations/blob/master/assets/french-fry.pdf) |
 | Solutions | Lesson Solution Material | [Here](./solution-code/stats-and-plots_solutions.ipynb)|
 
