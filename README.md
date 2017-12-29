@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Experiments & Hypothesis Testing
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Experiments and Hypothesis Testing
 
 > Unit 2, Lesson 3
 
@@ -8,9 +8,9 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Statistics and Visualizations | [Here](./stats-and-plots-in-python.ipynb)|
+| Lesson | Experiments and Hypothesis Testing | [Here](./experiments-hypothesis-tests.ipynb)|
 | Extra Materials | French Fry Study | [Here](https://git.generalassemb.ly/data-part-time/More-Statistics-and-Visualizations/blob/master/assets/french-fry.pdf) |
-| Solutions | Lesson Solution Material | [Here](./solution-code/stats-and-plots_solutions.ipynb)|
+| Solutions | Lesson Solution Material | [Here](./solution-code/experiments-hypothesis-tests_solutions.ipynb)|
 
 In this lesson, we use an online CSV file of advertising data from the book "An Introduction to Statistical Learning". This dataset is easy to understand. It allows the student to easily compare sales data across three advertising mediums.
 
