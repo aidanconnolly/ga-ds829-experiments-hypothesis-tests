@@ -12,9 +12,7 @@
 | Extra Materials | French Fry Study | [Here](https://git.generalassemb.ly/data-part-time/More-Statistics-and-Visualizations/blob/master/assets/french-fry.pdf) |
 | Solutions | Lesson Solution Material | [Here](./solution-code/experiments-hypothesis-tests_solutions.ipynb)|
 
-In this lesson, we use an online CSV file of advertising data from the book "An Introduction to Statistical Learning". This dataset is easy to understand. It allows the student to easily compare sales data across three advertising mediums.
-
-You will likely need to spend time on explaining covariance and correlation, perhaps doing examples on the board to make the equations as clear as possible. Make sure time is left for the scenario at the end where students have time to practice the lesson material.
+> In this lesson, we use an online CSV file of advertising data from the book "An Introduction to Statistical Learning". This dataset is easy to understand. It allows the student to easily compare sales data across three advertising mediums.
 
 ---
 
@@ -27,9 +25,21 @@ You will likely need to spend time on explaining covariance and correlation, per
 
 ---
 
+## Student Requirements
+
+Before this lesson(s), students should already be able to:
+- Perform basic data analysis in Pandas
+- Have a basic understanding of bias, variance, and correlation
+- Create basic visualizations in Seaborn
+- Have some exposure to major considerations within experimental design
+
+----
+
 ## Lesson Outline
 
-TOTAL (170 min)
+> Instructor Note: You will likely need to spend time on explaining covariance and correlation, perhaps doing examples on the board to make the equations as clear as possible. Make sure time is left for the scenario at the end where students have time to practice the lesson material.
+
+> TOTAL (170 min)
 - Data Source (10 min)
 	- What are the features/covariates/predictors?
 	- What is the outcome/response?
@@ -73,16 +83,6 @@ TOTAL (170 min)
 	- Interpret your results
 
 ---
-
-## Student Requirements
-
-Before this lesson(s), students should already be able to:
-- Perform basic data analysis in Pandas
-- Have a basic understanding of bias, variance, and correlation
-- Create basic visualizations in Seaborn
-- Have some exposure to major considerations within experimental design
-
-----
 
 ## Additional Resources
 
