@@ -18,6 +18,7 @@
 
 ## Learning Objectives
 
+By the end of this lesson, students will be able to:
 - Explain the difference between causation and correlation
 - Determine causality and sampling bias using Directed Acyclic Graphs
 - Identify what missing data is and how to handle it
