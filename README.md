@@ -40,8 +40,6 @@ Before this lesson(s), students should already be able to:
 
 ## Lesson Outline
 
-> Instructor Note: You will likely need to spend time on explaining covariance and correlation, perhaps doing examples on the board to make the equations as clear as possible. Make sure time is left for the scenario at the end where students have time to practice the lesson material.
-
 > TOTAL (170 min)
 - Data Source (10 min)
 	- What are the features/covariates/predictors?
