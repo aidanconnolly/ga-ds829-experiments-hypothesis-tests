@@ -9,8 +9,8 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Experiments and Hypothesis Testing Lesson | [Here](./experiments-hypothesis-tests.ipynb)|
-| Practice | Individual Practice Activity (includes data and sample solutions) | [Here](./practice/eda-music_data_blogging-lab-master/)|
-|  | Group Practice Activity (includes data) | [Here](./practice/eda-telecomm_group_project-lab-master/telecomm-eda-group-lab.ipynb)|
+| Practice |  Practice Activity (includes data and sample solutions) | [Here](./practice/eda-music_data_blogging-lab-master/)|
+|  | Practice Activity (includes data) | [Here](./practice/eda-telecomm_group_project-lab-master/telecomm-eda-group-lab.ipynb)|
 | Extra Materials | French Fry Study | [Here](./assets/french-fry.pdf) |
 
 > In this lesson, we'll use an online CSV file about advertising data, taken from the book "An Introduction to Statistical Learning". This dataset is easy to understand. It allows students to easily compare sales data across three advertising mediums.
